@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Jesuits in the Savoy to the Jesuits at S. Omers, giving an account of the affairs of England, taken from the priests in the Dover coach, together with 200 guineas</title>
+            <author>R. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53900</idno>
+            <idno type="STC">Wing P101</idno>
+            <idno type="STC">ESTC R7611</idno>
+            <idno type="EEBO-CITATION">12589021</idno>
+            <idno type="OCLC">ocm 12589021</idno>
+            <idno type="VID">63816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 967:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Jesuits in the Savoy to the Jesuits at S. Omers, giving an account of the affairs of England, taken from the priests in the Dover coach, together with 200 guineas</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>From our colledge in the Savoy [London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:63816:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>A Letter from the <hi>Jeſuits</hi> in the <hi>Savoy</hi> to the <hi>Jeſuits</hi> at S. <hi>Omers,</hi> giving an Account of the Affairs of <hi>England,</hi> taken from the Prieſts in the <hi>Dover</hi> Coach, together with 200 Guineas.</head>
+            <p>OUR laſt gave you a full Hiſtory of what we had done in the Reigns of Queen <hi>Elizabeth,</hi> King <hi>James,</hi> King <hi>Charles</hi> I. and II. for the introducing our Holy Ca<g ref="char:EOLhyphen"/>tholick Religion into <hi>England;</hi> and tho our Powder Plot, and our Fireing the City of <hi>London</hi> had not the ſucceſs we propoſed to ourſelves, yet our late Me<g ref="char:EOLhyphen"/>thods proſper daily ſo happily, that we can now ſend you the glad Tydings of our perfect<g ref="char:EOLhyphen"/>ing the <hi>Grand Deſign:</hi> The preſent Scheme and Model of this our Great Work, ſhews it ſelf in theſe Parts and Figures:</p>
+            <p>I. We have got a great Body of Proteſtants that cry up a <hi>Jus Divinum</hi> of our good King, Paſſive Obedience, Non-reſiſtence, <hi>&amp;c.</hi> ſo from them we can have no Oppoſition, eſpecially of Blows or Arms; and as for their Paper-War, we value it no more than Sugar-Plums, or a Fart.</p>
+            <p>II. We have alwaies in readineſs a Herd of Addreſſers and Flatterers, who upon the firſt notice, will thank us for what ſoever we think fit to declare, tho Contradictions and Im<g ref="char:EOLhyphen"/>poſſibilities.</p>
+            <p>III. We have at hand a Sett of Judges, who declare our will and pleaſure for Law; beſides two or three Couples of Biſhops who open and hunt all the Game we ſtart.</p>
+            <p>IV. We have erected an Eccleſiaſtical Court of Proteſtants, who never ſtick to Suſ<g ref="char:EOLhyphen"/>pend and Deprive all the Proteſtants we ſend them. We have got into our Shop the univerſal Sale of all ſorts of Offices and Employments, which brings us in all the Money of the Land.</p>
+            <p>V. We have put our Faithful Roman Catholicks into all Places of Truſt, Civil and Military in all the Three Kingdoms, for which we have made them pay well. And an <hi>Irish</hi> Army is coming over to purge the <hi>Engliſh</hi> Army. We Cloſet and Caſhier the Proteſtant Officers as faſt as you ſupply us with Catholick ones from the ſeveral Parts of the World, to which our Fathers have ſent their Circular Letters. We are Planting the Two Univer<g ref="char:EOLhyphen"/>ſities with Catholick Rectors and Seminaries: In a word, We are Catechiſing and Threatning all ſorts of People both in Church, State, and Army, to comply with our De<g ref="char:EOLhyphen"/>ſigns; we puniſh the Refuſers, and yet for all this we have a ſtrong Party both in City and Country, who write and talk up and down of our glorious intention to ſettle Li<g ref="char:EOLhyphen"/>berty of Conſcience. But theſe our Abettors, as Mr. <hi>Pen</hi> and his Enthuſiaſtick Sectaries, have a Mental Reſervation in this Caſe, for they mean only the Liberty of our <hi>Catholick Conſciences</hi> to do whatſoever we pleaſe with the Laws, the Religion, the Eſtates, and Lives of the Damnable Heretical Proteſtants. Our Brother <hi>Pen</hi> and his Diſciples have done us ſignal Services; for under a Mask of Gravity, of Purity of Manners, and Liberty of Con<g ref="char:EOLhyphen"/>ſcience, they have intangled a great number of buſie gadding Women, and ſome dreſſing and viſiting Gentlemen, who ſnuff up the Jeſuits Powder as faſt as the Ladies ſwallow their <hi>French</hi> Sweet-Meats.</p>
+            <p>VI. We have pack'd and regulated all the Corporations to our hearts deſire, in order to have good Parliaments. We daily model our Engliſh Army and the Militia for our purpoſe. We have Money to bribe all the Proteſtant Knaves, and Wit to cheat the Proteſtant Fools, or in caſe at any time they prove ſtubborn, we have power to force them; for we have a K—, Judges, Biſhops, L. Lieutenants, Juſtices of the Peace, P. Council, and Army, at our command; ſo the Devil is in it, if we miſcarry. Pray ſend us over all the Prieſts you can take together from all Parts of the World, we ſhall want them all, for we have not as yet 12000 in this Kingdom, and we ſhall ſtand in need of above 30000 Regulars and Seculars.</p>
+            <p>
+               <hi>Ireland</hi> and <hi>Scotland</hi> are our own as ſecure as <hi>England;</hi> we ſuppoſe our Fathers there give you an Account of the Poſture of Affairs in thoſe Countries; the <hi>Scoth</hi> and <hi>Iriſh</hi> are all Beaſts of Burthen, born for our Yoke. <hi>Tyrconnel</hi> and <hi>Perth</hi> (thoſe Glorious Patrons of our Cheats and Deſigns) have brought the Natives to Obey without Reſerve, and the <hi>Engliſh</hi> are already very eaſie Pads, only if we curb them too hard, and ſpur too often, they'll kick and unſaddle us fometimes, and afterwards run over to the <hi>Dutch,</hi> who (according to our un<g ref="char:EOLhyphen"/>doubted Advice, juſt now come ſince we writ the foregoing Lines) are preparing to un<g ref="char:EOLhyphen"/>kennel us and all our <hi>Cubs;</hi> ſo that we are now haſting to you, pray provide us good <hi>Dormi<g ref="char:EOLhyphen"/>tories</hi> and good <hi>Cheer,</hi> for we have fared very deliciouſly in <hi>England,</hi> and hate to think of returning to out <hi>Cells</hi> again. <hi>Adieu</hi> till we ſee you.</p>
+            <closer>
+               <dateline>From our Colledge in the <hi>Savoy,</hi> 
+                  <date>
+                     <hi>Septemb.</hi> 28, 1688.</date>
+               </dateline>
+               <salute>Reverend Fathers,</salute>
+               <signed> your moſt Affectionate Brethren, <list>
+                     <item>R. P.</item>
+                     <item>T. B.</item>
+                     <item>R. S.</item>
+                     <item>F. P.</item>
+                     <item>F. D.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
